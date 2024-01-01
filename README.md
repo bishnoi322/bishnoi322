@@ -1,4 +1,4 @@
-![image](https://github.com/bishnoi322/bishnoi322/assets/127303041/9310e5c2-479f-4625-94f2-bc7e20c0d425)
+![image](https://github.com/bishnoi322/bishnoi322/assets/127303041/fd4aa8d4-9388-4410-9c15-ee3d123a513d)
 
 <!--
 **bishnoi322/bishnoi322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
