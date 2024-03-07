@@ -1,4 +1,4 @@
-![image](https://media.licdn.com/dms/image/D5616AQGhU02SOyaJKg/profile-displaybackgroundimage-shrink_350_1400/0/1675272359916?e=1709769600&v=beta&t=82GUl2hAaqOBSCt3Pz4JPcuCmTg7kNCe2KKPxJUvQ2Q)
+
 
 
 <!--
