@@ -6,8 +6,8 @@ I'm a Data Analyst with a pasion for Statistics and maths. I always aim for unco
 * **Web Technologies**: Proficient in most Python libraries such as Pandas, Numpy, Scipy, Matplotlib, Seaborn etc.
 * **Version Control and Operating Systems**: GitHub
 # 🔗Links:
-* **Medium**:[Kanchan Bishnoi]('https://medium.com/@bishnoi.kanchan4141')
-* **StackOverFlow**:[Kanchan Bishnoi]('https://stackoverflow.com/users/23559808/kanchan')
+* **Medium**: [Kanchan Bishnoi]('https://medium.com/@bishnoi.kanchan4141')
+* **StackOverFlow**: [Kanchan Bishnoi]('https://stackoverflow.com/users/23559808/kanchan')
   
 <!--
 **bishnoi322/bishnoi322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
